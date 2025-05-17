@@ -14,7 +14,7 @@ class User(models.Model):
         ('user', 'Користувач'),
     )
 
-
+#grg
 
 
     name = models.CharField(max_length=100)
